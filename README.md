@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [Strona internetowa](https://didgetpl.github.io/)
+[Artykul_fork](https://github.com/AGH-Narzedzia-Informatyczne-2021-2022/Artykul_fork)
 
 <!--
 **DidgetPl/DidgetPl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
